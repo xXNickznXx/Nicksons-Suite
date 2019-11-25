@@ -3,7 +3,7 @@
 ; --------------------General--------------------
 
 ;default=8,8,15
-MainColor=3,4,8
+MainColor=3,7,13
 
 ;default=3,90,200
 SecondColor=11,64,138
@@ -24,6 +24,11 @@ FontSizeXL=30
 FontSizeL=20
 FontSizeM=15
 FontSizeS=10
+
+;default=De.inc
+Language=De.inc
+
+@include=#@#General\Languages\#Language#
 
 ; --------------------Settings--------------------
 
