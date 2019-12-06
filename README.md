@@ -3,7 +3,7 @@ Link to [DeviantArt](https://www.deviantart.com/xxnicksonxx/art/Nickson-Rainmete
 
 
 # Add Languages:
-Add Language File in Folder: @Resources/General/Languages/
+Create Pullrequest to add Language File in Folder: @Resources/General/Languages/
 
 
 # Skins
