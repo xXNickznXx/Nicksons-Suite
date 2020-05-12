@@ -1,8 +1,13 @@
 [Variables]
 
+; --------------------ContextMenu--------------------
+
+ContextMenuSettings=Settings
+ContextMenuVariables=Variables
+ContextMenuRessources=Ressources
+
 ; --------------------Weather--------------------
 
-WeatherSub=
 WeatherDaysSub="Mon":"MO","Tue":"TU","Wed":"WE","Thu":"TH","Fri":"FR","Sat":"SA","Sun":"SU"
 
 ; --------------------Settings--------------------
@@ -22,6 +27,7 @@ LabelCutout=Cutout
 LabelLanguage=Language
 
 ; -----Drives-----
+LabelDriveCount=Drive Count
 LabelDrive=Drive
 
 ; -----Visualizer-----
@@ -54,3 +60,7 @@ LabelPlaylists=Playlists
 ; -----Stackoverflow-----
 LabelRelevance=Relevance
 LabelNewest=Newest
+
+; --------------------Drive--------------------
+
+FreeOf=free of

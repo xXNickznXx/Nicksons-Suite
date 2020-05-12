@@ -1,8 +1,13 @@
 [Variables]
 
+; --------------------ContextMenu--------------------
+
+ContextMenuSettings=Einstellungen
+ContextMenuVariables=Variablen
+ContextMenuRessources=Ressourcen
+
 ; --------------------Weather--------------------
 
-WeatherSub="Mostly":"Meist","Partly":"Teils","AM":"Morgens","PM":"Nachmittags","Light":"Leichter","Heavy":"Starker","Patches of Fog":"Nebelschwaden","T-Storms":"Gewitter","Thunder":"Gewitter","to":"bis","Sunny":"Sonnig","Cloudy":"BewÃ¶lkt","Fair":"SchÃ¶n","Sun":"Sonne","Rain":"Regen","Drizzle":"Nieselregen","Freezing":"Frostiger","Isolated":"Isolierte","Ice":"Eis","Wintry Mix":"Schneeregen","Snow":"Schnee","Clouds":"Wolken","Fog":"Nebel","Mist":"Nebel","Showers":"Schauer","Shower":"Schauer","in the Vicinity":"in der Umgebung"
 WeatherDaysSub="Mon":"MO","Tue":"DI","Wed":"MI","Thu":"DO","Fri":"FR","Sat":"SA","Sun":"SO"
 
 ; --------------------Settings--------------------
@@ -22,15 +27,16 @@ LabelCutout=Ausschnitt
 LabelLanguage=Sprache
 
 ; -----Drives-----
+LabelDriveCount=Anzahl Laufwerke
 LabelDrive=Laufwerk
 
 ; -----Visualizer-----
 LabelFlip=Visualizer umdrehen
 LabelBarCount=Balkenanzahl
-LabelBarHeight=BalkenhÃ¶he
+LabelBarHeight=Balkenhöhe
 LabelBarWidth=Balkenbreite
-LabelBarMinHeight=BalkenmindesthÃ¶he
-LabelBarGap=BalkenlÃ¼cke
+LabelBarMinHeight=Balkenmindesthöhe
+LabelBarGap=Balkenlücke
 LabelBarRadius=Balkenradius
 LabelColor=Farbe
 
@@ -48,9 +54,13 @@ LabelImages=Bilder
 LabelShopping=Shopping
 
 ; -----Youtube-----
-LabelChannels=KanÃ¤le
+LabelChannels=Kanäle
 LabelPlaylists=Playlists
 
 ; -----Stackoverflow-----
 LabelRelevance=Relevanz
 LabelNewest=Neuste
+
+; --------------------Drive--------------------
+
+FreeOf=frei von
