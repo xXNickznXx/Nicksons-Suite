@@ -2,8 +2,7 @@
 Link to [DeviantArt](https://www.deviantart.com/xxnicksonxx/art/Nicksons-Suite-814984078).
 
 
-# Add Languages:
-Create Pullrequests for changes like:
+# Create Pullrequests for changes like:
 * adding a language in Folder: @Resources/General/Languages/
 * adding a cutout in folder:  @Resources/Cutout/
 
@@ -28,7 +27,7 @@ Create Pullrequests for changes like:
 * Weather
 
 
-# Changelog ---------------
+# Changelog
 ## 1.0.0
 ### Initial Release
 
